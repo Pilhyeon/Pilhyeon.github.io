@@ -5,12 +5,20 @@
     <link>https://pilhyeon.github.io/publication/</link>
       <atom:link href="https://pilhyeon.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 12:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Oct 2021 12:00:00 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://pilhyeon.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Point-supervised Temporal Action Localization with Completeness Guidance</title>
+      <link>https://pilhyeon.github.io/publication/2021_iccv_completeness-guidance/</link>
+      <pubDate>Sat, 02 Oct 2021 12:00:00 +0900</pubDate>
+      <guid>https://pilhyeon.github.io/publication/2021_iccv_completeness-guidance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feature Stylization and Domain-aware Contrastive Learning for Domain Generalization</title>
