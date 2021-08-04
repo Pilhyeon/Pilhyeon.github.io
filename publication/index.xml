@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Point-supervised Temporal Action Localization with Completeness Guidance</title>
+      <title>Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization</title>
       <link>https://pilhyeon.github.io/publication/2021_iccv_completeness-guidance/</link>
       <pubDate>Sat, 02 Oct 2021 12:00:00 +0900</pubDate>
       <guid>https://pilhyeon.github.io/publication/2021_iccv_completeness-guidance/</guid>
